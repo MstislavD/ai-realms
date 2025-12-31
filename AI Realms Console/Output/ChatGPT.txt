@@ -1,0 +1,23 @@
+--- Testing Name Generation ---
+
+Generating Dwarf names:
+<|channel|>analysis<|message|>Need to output 5 names, each on its own line, no numbering.<|end|><|start|>assistant<|channel|>final<|message|>Thorin Ironhand
+Borgar Stonebeard
+Kara Granitehelm
+Drunak Frostforge
+Gilda Emberclad
+
+Generating Elf names:
+<|channel|>analysis<|message|>Need to output 5 names.<|end|><|start|>assistant<|channel|>final<|message|>Elarion Thalindor
+Liora Sylvane
+Aelwen Moonbrook
+Thalion Valesong
+Seraphiel Leafwind
+
+--- Testing Location Description ---
+Generating description for a haunted forest...
+
+Description:
+<|channel|>analysis<|message|>We need 3 sentences vivid description.<|end|><|start|>assistant<|channel|>final<|message|>The Whispering Woods rise from the valley like an ancient, breathing cathedral, its gnarled trunks draped with silver mist that shivers even on a windless night. Every rustle of leaf or snap of twig carries a low, collective murmur-whispers of long-dead wanderers and forgotten secrets that echo through the tangled canopy, urging travelers to turn back. Moonlight barely pierces the dense gloom, casting elongated shadows that seem to move with their own will, as if the forest itself is alive, ever listening for those who dare to tread its haunted paths.
+
+--- Test Complete ---

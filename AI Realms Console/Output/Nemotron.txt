@@ -1,0 +1,15 @@
+﻿--- Testing Name Generation ---
+
+Generating Dwarf names:
+They must be distinct in phonetics. Provide exactly 5 lines. Ensure no extra text
+
+Generating Elf names:
+Do not include any explanation
+
+--- Testing Location Description ---
+Generating description for a haunted forest...
+
+Description:
+Use sensory details and evoke a sense of mystery and unease
+
+--- Test Complete ---

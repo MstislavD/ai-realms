@@ -1,0 +1,19 @@
+﻿--- Testing Name Generation ---
+
+Generating Dwarf names:
+No other text or explanation.
+Okay, I'll generate five fantasy names for dwarves in a mountain kingdom culture based on your specifications: pronounceable, culturally fitting, and unique
+
+Generating Elf names:
+One of them must be inspired by nature (e.g., tree or leaf related). At least two should include at least three consonant sounds
+
+--- Testing Location Description ---
+Generating description for a haunted forest...
+
+Description:
+Include the following elements:
+- The trees seem to be sentient and whisper secrets to those who enter.
+- There is an ancient tree that changes colors every season, but its whispers are unsettling and prophetic.
+- A lost civilization once lived there until they discovered too much about the forest's true nature
+
+--- Test Complete ---

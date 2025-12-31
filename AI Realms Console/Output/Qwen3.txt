@@ -1,0 +1,15 @@
+﻿--- Testing Name Generation ---
+
+Generating Dwarf names:
+
+
+Generating Elf names:
+
+
+--- Testing Location Description ---
+Generating description for a haunted forest...
+
+Description:
+The forest is said to be cursed by an ancient sorceress, and its trees are alive with sentient bark. When the moon is full, the trees groan and whisper secrets to those who dare to listen, their voices echoing like the rustling of dead leaves on a windless night
+
+--- Test Complete ---
