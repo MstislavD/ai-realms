@@ -19,6 +19,11 @@ namespace AI
             _httpClient.Timeout = TimeSpan.FromSeconds(30);
         }
 
+        public Task<Dictionary<string, string>> GenerateCharacterAsync(string race, string profession, string culture)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<string> GenerateContentAsync(string prompt, string context = "")
         {
             string fullPrompt = context + "\n\n" + prompt;
@@ -57,6 +62,11 @@ namespace AI
                            $"Return only the names, one per line, no numbering.";
 
             return await GenerateContentAsync(prompt, "You are a fantasy name generator.");
+        }
+
+        public Task<List<string>> GenerateNamesListAsync(string race, string culture, int count, string? additionalRequirements = null)
+        {
+            throw new NotImplementedException();
         }
     }
 }
